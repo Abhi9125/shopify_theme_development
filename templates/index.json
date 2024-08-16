@@ -6,11 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-<<<<<<< HEAD
             "heading": "Browse our latest local2 products",
-=======
-            "heading": "Browse our latest live2 products",
->>>>>>> 9add877b5bf5c766b587e8fc1504e44379034280
             "heading_size": "h0"
           }
         },
