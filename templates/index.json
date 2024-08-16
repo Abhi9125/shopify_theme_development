@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 /*
 * ------------------------------------------------------------
 * IMPORTANT: The contents of this file are auto-generated.
@@ -9,7 +7,6 @@
 * made to this file may be overwritten.
 * ------------------------------------------------------------
 */
->>>>>>> 20d519ee27b5b261e51f2bfdedeae983251b36cc
 {
   "sections": {
     "image_banner": {
@@ -18,11 +15,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-<<<<<<< HEAD
-            "heading": "Browse our latest local theme 1 products",
-=======
-            "heading": "Browse our latest live theme  products",
->>>>>>> 20d519ee27b5b261e51f2bfdedeae983251b36cc
+            "heading": "Browse our latest live theme  1 products",
             "heading_size": "h0"
           }
         },
